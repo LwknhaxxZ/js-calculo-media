@@ -1,2 +1,2 @@
-# aula-javascript
+# calculo-media-js
  java-script
